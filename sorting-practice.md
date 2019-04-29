@@ -1,4 +1,4 @@
-# Visualize sorting
+# Visualize Sorting
 Sorting Algorithm Animations: 
 
   https://www.toptal.com/developers/sorting-algorithms
