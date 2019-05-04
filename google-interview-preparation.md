@@ -74,26 +74,25 @@ _ All pairs shortest path
 - A*
 
 
-####Bellman Ford
+#### Bellman Ford
 
-####Bit Manipulation
+#### Bit Manipulation
 
-####Regular Expressions
+#### Regular Expressions
 
-####Mathematics from CTCI Book
+#### Mathematics from CTCI Book
 
-####Basic Discrete Mathematics
+#### Basic Discrete Mathematics
 
-####Operating System Concepts
+#### Operating System Concepts
 
-####Scheduling
+#### Scheduling
 
-####Context Switching
+#### Context Switching
 
-####Threads
+#### Threads
 
-####Deadlock
-
+#### Deadlock
 
 ### General Sorting and Searching
 
