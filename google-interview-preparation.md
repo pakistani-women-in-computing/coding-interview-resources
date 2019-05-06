@@ -1,7 +1,7 @@
 # INTERVIEW PROCESS AT GOOGLE
 The interview process generally looks like below
  
-0. Preparation time, study & practice → you are here take max. time to prepare
+0. Preparation time, study & practice → you are here take max. time to prepare usually (4-8 weeks)
 1. Hangouts Screening Technical Interview (1-2 interview x 45 mins) - Software Engineering Position
    For two different programming languages probably more than 1x screening interview.
 2. Onsite Interviews (4-5 interviews x 45 mins in a Google office)
@@ -46,7 +46,7 @@ First, the absolute must-haves, in order:
 - Greedy Algorithms
 
 ### All Topics to cover
-*(You'll need to to talk about how they're implemented and why you'd choose one implementation or data structure instead of another.)
+(You'll need to to talk about how they're implemented and why you'd choose one implementation or data structure instead of another.)
 
 ##### General Topics
 - Recursion
@@ -69,6 +69,7 @@ First, the absolute must-haves, in order:
 - Cycle Detection in Linked-List
 
 #### Stack and Queues
+
 #### Trees
 - Binary Tree
 - Binary Search Tree
@@ -103,17 +104,17 @@ First, the absolute must-haves, in order:
 
 #### Operating System Concepts
 
-##### Scheduling
+- Scheduling
 
-##### Context Switching
+- Context Switching
 
-##### Threads
+- Threads
 
-##### Deadlock
+- Deadlocks
 
 ### General Sorting and Searching
 
-#### Sorting: ( You must know and discuss tradeoff of using them on different type of input data)
+#### Sorting: 
 - Bubble Sort
 - Quick Sort
 - Merge Sort
@@ -122,6 +123,8 @@ First, the absolute must-haves, in order:
 - Insert Sort
 - Search : 
 - Binary Search
+
+***You must know and discuss tradeoff of using them on different type of input data***
 
 #### Time Complexity of Sorts
 - Insert Sort -> O(n^2) [Insert into a new array at sorted position] [Better than selection sort]
@@ -141,7 +144,7 @@ First, the absolute must-haves, in order:
 * Boundary case occurs when one of inputs is at or just beyond maximum or minimum limits.
 * Base case is where Recursion ends
 
-
+---------------------------------
 ### Preparing for technical interview
 - Algo Expert: https://www.algoexpert.io  (Premium member - 65 questions)
 - LeetCode: https://leetcode.com/problemset/algorithms/
@@ -151,9 +154,9 @@ First, the absolute must-haves, in order:
 - Codechef: https://www.codechef.com/
 - Hackerrank: https://www.hackerrank.com
 - Interviewbit: https://www.interviewbit.com/
-- CodeJam:
-- Daily Coding Problem:
-- Project Euler:
+- CodeJam: https://codingcompetitions.withgoogle.com/codejam
+- Daily Coding Problem: https://dailycodingproblem.com/
+- Project Euler: https://www.hackerrank.com/contests/projecteuler/challenges
 
 ### Google Style Guides for programming languages
 - http://rkpprogramming.wordpress.com/
@@ -163,11 +166,11 @@ First, the absolute must-haves, in order:
 - https://ioinformatics.org/?r=301
 
 ### Life at Google Videos
-Watch How we hire
-Watch How to Prepare for a Technical Interview
-Watch Example of a coding interview
-Watch Interview tips from Google Software Engineers
-Watch Candidate Interviewing Practice for Google 
+- Watch How we hire
+- Watch How to Prepare for a Technical Interview
+- Watch Example of a coding interview
+- Watch Interview tips from Google Software Engineers
+- Watch Candidate Interviewing Practice for Google 
 
 ### Useful Blogs
 - Read Top 10 Algos for Coding Interview
@@ -178,11 +181,12 @@ Watch Candidate Interviewing Practice for Google
 - Graphs and Topological Sort https://www.youtube.com/watch?v=ddTC4Zovtbc 
  
 ### Online Univeristy Courses
-Google hires a lot of graduates from Stanford and MIT, but you don’t have to attend these colleges to benefit from their courses. You can find the MIT Computer Science courses through free Opencourseware. Here’s just a selection:
-● 6.006: Introduction to Algorithms
-● 6.033: Computer System Engineering
-● 6.172: Performance Engineering of Software Systems
-● 6.717: Software Engineering for Web Applications
+Google hires a lot of graduates from Stanford and MIT, but you don’t have to attend these colleges to benefit from their courses. You can find the MIT Computer Science courses through free Opencourseware. 
+Here’s just a selection:
+- 6.006: Introduction to Algorithms
+- 6.033: Computer System Engineering
+- 6.172: Performance Engineering of Software Systems
+- 6.717: Software Engineering for Web Applications
  
 ### Useful Books
 - "Cracking the Coding Interview" 6th Ed. by Gayle Laakmann McDowell
@@ -193,11 +197,9 @@ Google hires a lot of graduates from Stanford and MIT, but you don’t have to a
 - Effective C++ Vol. 1 by Scott Meyers
 - More Effective C++ by Scott Meyers
 - Programming Interviews Exposed: “Secrets to Landing Your Next Job” By John Mongan, Eric Giguere, Noah Suojanen, Noah Kindler
-- Free Books: https://github.com/PAVBAN95/someMostWantedBooks
-- Free Books: https://github.com/vpreethamkashyap/Library
 
- 
-### Google Tips for Interview Topics
+--------------------------------- 
+### Tips for Interview Topics [Source:Google]
 #### Coding practice:
 You can find sample coding questions on sites like CodeLab, Quora, and Stack Overflow. The book “Cracking the Coding Interview” is also a good resource. Be sure to test your code and ensure it’s easily readable without bugs. Don’t stress about small syntactical errors like which substring to use for a given method (e.g. start, end or start, length) — just pick one and let your interviewer know.
 ####  Coding:
@@ -223,7 +225,7 @@ Many coding problems involve thinking recursively and potentially coding a recur
 ● Sample topics: construct/ traverse data structures, implement system routines, distill large data sets to single values, transform one data set to another
  
  
-### General Interview Tips
+### General Interview Tips 
 The following are a few details that can make an interview go more smoothly:
  
 - Always practice doing the coding questions on a whiteboard, not on a computer.  Ask clarifying questions and make sure you know exactly what you are building before you start writing code.
@@ -238,10 +240,10 @@ The following are a few details that can make an interview go more smoothly:
 - Once you've got a solution, try to walk though the code with some small input. E.g. if you're asked to calculate the nearest integer to a square root of an integer without using floating point numbers, try your solution with 1, with 3, with 4. Talk it out with your interviewer as you do this.
  
 ### Common follow up questions from Google Interviewer (once you have a solution)
-● What's the performance? (e.g. O(N^2), N lg N, etc.) Can you do better?
-● How do you test the solution?
-● Is this thread safe? If not, can you make it so?
-● How do you distribute the solution for very large data sets?
+- What's the performance? (e.g. O(N^2), N lg N, etc.) Can you do better?
+- How do you test the solution?
+- Is this thread safe? If not, can you make it so?
+- How do you distribute the solution for very large data sets?
  
 ### Common Mistakes to avoid during the Interview 
 - Not thinking  through the solutions clearly
@@ -254,7 +256,9 @@ The following are a few details that can make an interview go more smoothly:
 - Not being able to solve the problem with pseudocode  and not understanding the objections.
 - Not asking clarifying questions to the interviewer(if something remains unclear)
 
-## Google Interview Process (know-how)
+---------------------------------
+
+## Google Interview Process [Source:Google]
 
 ### Hangouts Technical Interview
 This is a 45 minutes Technical Interview with a Google Software Engineer over Hangouts. The interviewer will share with you a Google Doc and will be interested in your knowledge of computer science principles (for this step, you should know Big-O really well, along with data structures, searching and sorting algorithms, trees and hash tables,  lists, maps, stacks, priority queues, binary trees, graphs, bags, and sets.) and how it is applied in your solutions. Our engineers want you to demonstrate that you can comprehend and solve the problem quickly with clean, efficient, optimal code. 
