@@ -150,6 +150,7 @@ First, the absolute must-haves, in order:
 - LeetCode: https://leetcode.com/problemset/algorithms/
 - GeekForGeeks: https://www.geeksforgeeks.org 
 - Youtube-codes: https://github.com/mission-peace/interview/tree/master/src/com/interview
+- Byte by Byte: https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w
 - Topcoder: https://www.topcoder.com
 - Codechef: https://www.codechef.com/
 - Hackerrank: https://www.hackerrank.com
@@ -166,14 +167,14 @@ First, the absolute must-haves, in order:
 - https://ioinformatics.org/?r=301
 
 ### Life at Google Videos
-- Watch How we hire
-- Watch How to Prepare for a Technical Interview
-- Watch Example of a coding interview
-- Watch Interview tips from Google Software Engineers
-- Watch Candidate Interviewing Practice for Google 
+- Watch How we hire https://www.youtube.com/watch?v=k-baHBzWe4k&t=7s
+- Watch How to Prepare for a Technical Interview https://www.youtube.com/watch?v=ko-KkSmp-Lk
+- Watch Example of a coding interview https://www.youtube.com/watch?v=XKu_SEDAykw&feature=em-subs_digest
+- Watch Interview tips from Google Software Engineers https://www.youtube.com/watch?v=XOtrOSatBoY
+- Watch Candidate Interviewing Practice for Google https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
 
 ### Useful Blogs
-- Read Top 10 Algos for Coding Interview
+- Top 10 Algos for Coding Interview http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 - Steve Yegge Blogpost https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
 - Big O Notations http://bigocheatsheet.com/ 
 - System Design https://gist.github.com/vasanthk/485d1c25737e8e72759f 
@@ -183,10 +184,10 @@ First, the absolute must-haves, in order:
 ### Online Univeristy Courses
 Google hires a lot of graduates from Stanford and MIT, but you don’t have to attend these colleges to benefit from their courses. You can find the MIT Computer Science courses through free Opencourseware. 
 Here’s just a selection:
-- 6.006: Introduction to Algorithms
-- 6.033: Computer System Engineering
-- 6.172: Performance Engineering of Software Systems
-- 6.717: Software Engineering for Web Applications
+- 6.006: Introduction to Algorithms https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/
+- 6.033: Computer System Engineering https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/
+- 6.172: Performance Engineering of Software Systems https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/
+- 6.717: Software Engineering for Web Applications https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/
  
 ### Useful Books
 - "Cracking the Coding Interview" 6th Ed. by Gayle Laakmann McDowell
@@ -218,11 +219,11 @@ Consider if a problem can be applied with graph algorithms like distance, search
 Many coding problems involve thinking recursively and potentially coding a recursive solution. Use recursion to find more elegant solutions to problems that can be solved iteratively.
  
 ### Additional Tips:
-● You need to know Big O complexity analysis really well - it’s OK to quickly come up with a brute force solution, but that’s never going to be the answer - always look for an O(n*logn) solution or ideally a linear one
-● Hash tables - be able to implement one using only arrays
-● Trees - know tree construction, traversal, and manipulation algorithms. Familiarize yourself with binary trees, n- ary trees and trie- trees, and at least one type of balanced binary tree
-● Mathematics relating to statistics and probability is also useful to know
-● Sample topics: construct/ traverse data structures, implement system routines, distill large data sets to single values, transform one data set to another
+- You need to know Big O complexity analysis really well - it’s OK to quickly come up with a brute force solution, but that’s never going to be the answer - always look for an O(n*logn) solution or ideally a linear one
+- Hash tables - be able to implement one using only arrays
+- Trees - know tree construction, traversal, and manipulation algorithms. Familiarize yourself with binary trees, n- ary trees and trie- trees, and at least one type of balanced binary tree
+- Mathematics relating to statistics and probability is also useful to know
+- Sample topics: construct/ traverse data structures, implement system routines, distill large data sets to single values, transform one data set to another
  
  
 ### General Interview Tips 
@@ -285,14 +286,15 @@ At the end you may ask some questions to the interviewer – Technical questions
 
 ### System Design Interview
 One of the onsite interview will likely focus on System Design. Several tips are below:
-● You need to be able to do back of the envelope calculations!
-○ Know your powers of 2 (binary)
-○ Be able to express mega/giga/etc. in binary and/or scientific notation
-○ Explain and justify your assumptions
-○ Don’t be afraid of dealing with huge numbers!
-● Know a variety of searching and sorting algorithms (Quicksort, Mergesort, Hash Tables,etc.) - know more than one O(n*logn) sorting algorithm - how they work
-● System design questions are a test of your problem solving skills - ask qualifying questions - make sure you explain your thought process - explain and justify your assumptions
-A recommended video is: Building Software Systems at Google
+- You need to be able to do back of the envelope calculations!
+- Know your powers of 2 (binary)
+- Be able to express mega/giga/etc. in binary and/or scientific notation
+- Explain and justify your assumptions
+- Don’t be afraid of dealing with huge numbers!
+- Know a variety of searching and sorting algorithms (Quicksort, Mergesort, Hash Tables,etc.) - know more than one O(n*logn) sorting algorithm - how they work
+- System design questions are a test of your problem solving skills - ask qualifying questions - make sure you explain your thought process - explain and justify your assumptions
+- A recommended video is: 
+Building Software Systems at Google https://www.youtube.com/watch?v=modXC5IWTJI
 
 ### The Large Scale Design Interview
 System Design - Questions are used to assess a candidate's ability to combine knowledge, theory, experience and judgement toward solving a real-world engineering problem. In other words, can a candidate "design policies, processes, procedures, methods, tests, and/or components from ground up.
@@ -307,5 +309,8 @@ This topic is broad, search about it on youtube and relate it to story of your l
 
 
 ---------------------------------
-Document compilation Credits:
+- Document compilation Credits:
 Asema Hassan and Nasir Mahmood
+
+- Source: 
+Google, YouTube, Recruiter Tips
