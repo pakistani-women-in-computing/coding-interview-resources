@@ -174,6 +174,7 @@ First, the absolute must-haves, in order:
 - Watch Candidate Interviewing Practice for Google https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
 
 ### Useful Blogs
+- Google Interview Preparation http://blog.gainlo.co/index.php/category/google-interview-preparation/
 - Top 10 Algos for Coding Interview http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
 - Steve Yegge Blogpost https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
 - Big O Notations http://bigocheatsheet.com/ 
