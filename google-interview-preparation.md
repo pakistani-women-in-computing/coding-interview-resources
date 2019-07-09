@@ -14,10 +14,10 @@ The interview process generally looks like below
 ## Preparing for Software Engineering Position:
 
 ### How much time you need?
-Experienced SWE - 4 to 12 weeks 
-Beginner SWE - 6 to 12 months
-Study & practice everyday 3 hrs and weekends 6 hrs
-Train your muscle to solve problems with countdown time (~30 mins)
+- Experienced SWE - 4 to 12 weeks 
+- Beginner SWE - 6 to 12 months
+- Study & practice everyday 3 hrs and weekends 6 hrs
+- Train your muscle to solve problems with countdown time (~30 mins)
 
 ### Initial Study Plan 
 * First read the Cracking the Coding Interview (CTCI) 6th Ed. Book Chapters without thinking too much about the solutions of problems. Try to get as much theory knowledge as you can from the book related to various topics. The problems in interview maybe similar to some problem you know but high chances are they will occur as new to you, there you'll need this theoretical knowledge to break problem down. 
