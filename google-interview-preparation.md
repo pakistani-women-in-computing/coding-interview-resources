@@ -1,10 +1,10 @@
 # INTERVIEW PROCESS AT GOOGLE
 The interview process generally looks like below
  
-0. Preparation time, study & practice → you are here take max. time to prepare usually (4-8 weeks)
+0. Preparation time, study & practice → for experienced SWE (4-12 weeks), for beginners (6-12 months)
 1. Hangouts Screening Technical Interview (1-2 interview x 45 mins) - Software Engineering Position
    For two different programming languages probably more than 1x screening interview.
-2. Onsite Interviews (4-5 interviews x 45 mins in a Google office)
+2. Onsite Interviews (4-5 interviews x 45 mins at a Google office)
     2 x for C++ and 2 x for C# (or your primary working language)
     Until this stage there is no team allotted and only after successful onsite we look for a team for the candidate.
 3. Team Matching (~1 week) 
@@ -12,6 +12,12 @@ The interview process generally looks like below
 5. US Hiring Committee & Offer Review (~1-2 weeks)
 
 ## Preparing for Software Engineering Position:
+
+### How much time you need?
+Experienced SWE - 4 to 12 weeks 
+Beginner SWE - 6 to 12 months
+Study & practice everyday 3 hrs and weekends 6 hrs
+Train your muscle to solve problems with countdown time (~30 mins)
 
 ### Initial Study Plan 
 * First read the Cracking the Coding Interview (CTCI) 6th Ed. Book Chapters without thinking too much about the solutions of problems. Try to get as much theory knowledge as you can from the book related to various topics. The problems in interview maybe similar to some problem you know but high chances are they will occur as new to you, there you'll need this theoretical knowledge to break problem down. 
